@@ -10,6 +10,9 @@ Please file an issue if you have any problems.
 This package is low priority, but may be fixed.
 
 ## About version control
+The version compatibility of this package is managed in the same way as the Dart version.  
+If the version is the same, it will basically behave in the same way.  
+
 The C part will be changed at the time of version upgrade.  
 However, versions less than 1.0.0 may change the file structure regardless of the following rules.  
 - Changes such as adding variables, structure change that cause problems when reading previous files.

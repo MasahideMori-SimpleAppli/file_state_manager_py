@@ -1,3 +1,3 @@
-## 0.0.1
+## 2.0.0
 
-* initial release.
+* initial release. The version number is standardized for compatibility with versions in other languages.
