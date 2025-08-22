@@ -1,3 +1,7 @@
+## 2.0.0.post2
+
+* The name in the README has been corrected to match the package name.
+
 ## 2.0.0.post1
 
 * Fixed the issue where the required version of setuptools was outdated.

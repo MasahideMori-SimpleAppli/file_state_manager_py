@@ -1,4 +1,4 @@
-# file_state_manager_py
+# file-state-manager
 Python implementation of FileStateManager.
 
 ## Usage
